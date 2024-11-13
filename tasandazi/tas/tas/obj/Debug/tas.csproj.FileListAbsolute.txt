@@ -1,0 +1,10 @@
+D:\tasandazi\tas\tas\bin\Debug\tas.exe.config
+D:\tasandazi\tas\tas\bin\Debug\tas.exe
+D:\tasandazi\tas\tas\bin\Debug\tas.pdb
+D:\tasandazi\tas\tas\obj\Debug\tas.csprojResolveAssemblyReference.cache
+D:\tasandazi\tas\tas\obj\Debug\tas.frmtas.resources
+D:\tasandazi\tas\tas\obj\Debug\tas.Properties.Resources.resources
+D:\tasandazi\tas\tas\obj\Debug\tas.csproj.GenerateResource.Cache
+D:\tasandazi\tas\tas\obj\Debug\tas.exe
+D:\tasandazi\tas\tas\obj\Debug\tas.pdb
+D:\tasandazi\tas\tas\obj\Debug\tas.frm2.resources
